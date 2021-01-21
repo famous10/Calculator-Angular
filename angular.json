@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "medichostEMR"
+    }
+  },
+  "defaultProject": "medichostEMR",
+  "cli": {
+    "analytics": "7b8902af-017b-4326-a034-58e1ee33a7f2"
+  }
 }
